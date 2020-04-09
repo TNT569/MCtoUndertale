@@ -1,0 +1,87 @@
+ { 
+  "toriel": {
+    "sounds": [
+    "mus_toriel"
+	]
+  },
+  "ruins": {
+    "sounds": [
+    "mus_ruins"
+ ]
+  },
+  "menu": {
+    "sounds": [
+    "mus_menu0"
+ ]
+  },
+  "flowey": {
+    "sounds": [
+    "mus_flowey"
+ ]
+  },
+  "gameover": {
+    "sounds": [
+    "mus_gameover"
+	]
+  },
+  "flowey_laugh": {
+    "sounds": [
+    "effect/flowey_laugh"
+ ]
+  },
+  "attack": {
+    "sounds": [
+    "effect/attack"
+ ]
+  },
+  "run": {
+    "sounds": [
+    "effect/run"
+ ]
+  },
+  "beat": {
+    "sounds": [
+    "effect/beat"
+ ]
+  },
+  "bruise": {
+    "sounds": [
+    "effect/bruise"
+ ]
+  },
+  "flowey_kick": {
+    "sounds": [
+    "effect/flowey_kick"
+ ]
+  },
+  "heart1": {
+    "sounds": [
+    "effect/heart1"
+ ]
+  },
+  "heart2": {
+    "sounds": [
+    "effect/heart2"
+ ]
+  },
+  "save": {
+    "sounds": [
+    "effect/save"
+ ]
+  },
+  "boss1": {
+    "sounds": [
+    "mus_boss1"
+ ]
+  },
+    "prebattle1": {
+    "sounds": [
+    "mus_prebattle1"
+ ]
+  },
+    "battle1": {
+    "sounds": [
+    "mus_battle1"
+ ]
+  }
+ }

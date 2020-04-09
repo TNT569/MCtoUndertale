@@ -1,0 +1,25 @@
+ { 
+  "toriel": {
+    "sounds": [
+	{
+      "name":"mus_toriel"
+	  "stream":true
+    }
+	]
+  },
+  "ruins": {
+    "sounds": [
+	{
+      "name":"mus_ruins"
+	}
+ ]
+  },
+  
+  "gameover": {
+    "sounds": [
+	 {
+      "name":"mus_gameover"
+     }
+	]
+  }
+  }
